@@ -37,3 +37,7 @@ body{
 .navbar-dark{
     background-color: rgb(109, 57, 158);
 }
+
+.set_margin{
+    margin: 35px;
+}

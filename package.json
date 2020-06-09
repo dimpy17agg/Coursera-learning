@@ -19,6 +19,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "clean-css": "^4.2.3",
     "cssmin": "^0.4.3",
     "grunt": "^1.1.0",
     "grunt-browser-sync": "^2.2.0",
@@ -40,6 +41,7 @@
     "parallelshell": "^3.0.2",
     "rimraf": "^2.6.2",
     "time-grunt": "^1.4.0",
+    "uglify-js": "^3.9.4",
     "uglifyjs": "^2.4.11",
     "usemin-cli": "^0.6.0"
   },
